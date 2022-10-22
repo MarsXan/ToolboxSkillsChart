@@ -1,9 +1,6 @@
 # ToolboxSkillsChart
 
-
-# Backend
-
-### General Technical Requirements
+# General Skills 
 - Software Development Life Cycle
 - Object Oriented Analysis and Design
 - Functional Programming basics
@@ -11,7 +8,6 @@
 - RESTful API fluency and GraphQL Basics
 - Testing, Debugging, Logging and fluent Troubleshooting
 - Profiling and benchmarking
-- Good sense of UI/UX
 - Build Tools, Task Runner and Package Manager
 - Version Control Systems
 - Code Quality and Lint checkers
@@ -20,7 +16,8 @@
 - Caching
 - Security Basics
 
-### Python / Django Requirements
+# Backend
+### Skills
 - Excellent command of Python
 - Django Architecture (Routing, Facades, Middleware, Eloquent, Cache, Scheduling, Queues, Security, Validation and Artisan CLI)
 - System Design
@@ -39,26 +36,7 @@
 
 # Android
 
-### General Technical Requirements
-- Software Development Life Cycle
-- Object Oriented Analysis and Design
-- Functional Programming basics
-- HTTP, Socket and Networking Basics
-- RESTful API fluency and GraphQL Basics
-- Testing, Debugging, Logging and fluent Troubleshooting
-- Profiling and benchmarking
-- Good sense of UI/UX
-- Build Tools, Task Runner and Package Manager
-- Version Control Systems
-- Code Quality and Lint checkers
-- Architectural and Design Patterns
-- Data Structures and Algorithms
-- Caching
-- Continuous Integration, Delivery and Monitoring
-- Security Basics
-
-
-### Android Requirements
+### Skills
 - Java, Kotlin
 - App Components
 - Architecture Components
@@ -78,29 +56,10 @@
 
 # Front-End
 
-### General Technical Requirements:
 
-- Internet, DNS and how it works
-- Software Development Life Cycle
-- Object Oriented Analysis and Design
-- Functional Programming basics
-- HTTP, Socket and Networking Basics
-- RESTful API fluency and GraphQL Basics
-- Testing, Debugging, Logging and fluent Troubleshooting
-- Profiling and benchmarking
-- Good sense of UI/UX
-- Build Tools, Task Runner and Package Manager
-- Version Control Systems
-- Code Quality and Lint checkers
-- Architectural and Design Patterns
-- Data Structures and Algorithms
-- Caching
-- Continuous Integration, Delivery and Monitoring
-- Security Basics
+### Skills
 
-
-### Reactjs/Front End Requirements:
-
+- Reactjs
 - HTML5, CSS, ES5, ES6, TypeScript
 - CSS Preprocesss (Sass,SCSS,Less)
 - CSS Frameworks (Tailwind, Bootstrap, Zurb Foundaiton, Sematic UI, Materialize CSS)
@@ -123,27 +82,9 @@
 
 # IOS
 
-### General Technical Requirements:
 
-- Software Development Life Cycle
-- Object Oriented Analysis and Design
-- Functional Programming basics
-- HTTP, Socket and Networking Basics
-- RESTful API fluency and GraphQL Basics
-- Testing, Debugging, Logging and fluent Troubleshooting
-- Profiling and benchmarking
-- Good sense of UI/UX
-- Build Tools, Task Runner and Package Manager
-- Version Control Systems
-- Code Quality and Lint checkers
-- Architectural and Design Patterns
-- Data Structures and Algorithms
-- Caching
-- Continuous Integration, Delivery and Monitoring
-- Security Basics
+### Skills
 
-
-### IOS Requirements
 - Swift, SwiftUI
 - App Components
 - Navigation
@@ -163,29 +104,16 @@
 
 # DevOps
 
-
-### General Technical Requirements:
-
-- live in Terminal 
-- HTTP, Socket and Networking Basics
-- RESTful API fluency and GraphQL Basics
-- Testing, Debugging, Logging and fluent Troubleshooting
-- Profiling and benchmarking
-- Build Tools, Task Runner and Package Manager
-- Version Control Systems
-- Code Quality and Lint checkers
-- Caching
-- Continuous Integration, Delivery and Monitoring
-- Security Basics
-- Knowing a Programming Language(Python)
-
-
-### DevOps Requirements
+### Skills
+- Python
 - Container Orchestration(Docker Swarm)
-- Understand different OS Concepts(POSIX, Networking, Sockets, Processes)
+- different OS Concepts(POSIX, Networking, Sockets, Processes)
 - Bash Scripting (Vim, Nano, PowerShell, Emacs)
 - System Performance(nmon, iostat, sar)
 - setting up (Reverse Proxy, Caching server, Forward Proxy, Load Balancer, Firewall, Web Server)
 - Logs Management(Graylog,Loki,Elastic Stack)
 - Application Monitoring(Jaeger, New Relic)
 - Infrastructure Monitoring (Grafana,Prometheus, Datadog)
+- Continuous Integration, Delivery and Monitoring
+- Build Tools, Task Runner and Package Manager
+- Security
