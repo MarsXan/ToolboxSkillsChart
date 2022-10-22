@@ -121,7 +121,7 @@
 
 ---
 
-#IOS
+# IOS
 
 ### General Technical Requirements:
 
@@ -161,7 +161,7 @@
 ---
 
 
-#DevOps
+# DevOps
 
 
 ### General Technical Requirements:
